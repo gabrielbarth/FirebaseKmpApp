@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15395160339",
+    "project_id": "fir-kmpapp",
+    "storage_bucket": "fir-kmpapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15395160339:android:88bc3f0c44de2a8efd5ae6",
+        "android_client_info": {
+          "package_name": "com.app.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpIhoKO9V1v75v-0LDXHT9g6JbNS_EfxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
